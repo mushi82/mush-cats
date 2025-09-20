@@ -1,0 +1,10 @@
+body {
+  font-family: Helvetica;
+  background-color: rgb(167, 178, 232);
+  text-align: center;
+}
+
+img{
+  width: 400px;
+  height:auto;
+}
